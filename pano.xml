@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" appversion="7.1.8" apprev="20986" start="node10">
+  <panorama id="node10">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-86" fov="117.02" tilt="0.3" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="12"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="олег-давыдов.рф" nodeid="node10" datetime="30.01.2026 16:28" author="" latitude="" heading="0" tags="Pano2VR7" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-62" skinid="ht_node" description="" url="{node11}" target="" tilt="3.61" title=""/>
+      <hotspot id="Point02" pan="-68.69" skinid="ht_node" description="" url="{node1}" target="" tilt="3.55" title=""/>
+      <hotspot id="Point03" pan="-122.03" skinid="ht_node" description="" url="{node3}" target="" tilt="1.5" title=""/>
+      <hotspot id="Point04" pan="-114.67" skinid="ht_node" description="" url="{node4}" target="" tilt="1.68" title=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-93.562" fov="108.174" tilt="0.164761" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node11" datetime="30.01.2026 16:28" author="" latitude="" heading="0" tags="Pano2VR7" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-78.88" skinid="ht_node" description="" url="{node2}" target="" tilt="0.75" title=""/>
+      <hotspot id="Point02" pan="-114.61" skinid="ht_node" description="" url="{node10}" target="" tilt="0.93" title=""/>
+      <hotspot id="Point03" pan="-309.27" skinid="ht_node" description="" url="{node1}" target="" tilt="7.72" title=""/>
+      <hotspot id="Point04" pan="-251.5" skinid="ht_node" description="" url="{node9}" target="" tilt="8.35" title=""/>
+      <hotspot id="Point05" pan="-216.47" skinid="ht_node" description="" url="{node5}" target="" tilt="9.41" title=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-87.1324" fov="108.174" tilt="-0.489785" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node3" datetime="30.01.2026 16:29" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-85.36" skinid="ht_node" description="" url="{node4}" target="" tilt="-1.18" title=""/>
+      <hotspot id="Point03" pan="-276.02" skinid="ht_node" description="" url="{node2}" target="" tilt="3.82" title=""/>
+      <hotspot id="Point04" pan="-179.89" skinid="ht_node" description="" url="{node8}" target="" tilt="3.7" title=""/>
+      <hotspot id="Point02" pan="-299.1" skinid="ht_node" description="" url="{node10}" target="" tilt="3.66" title=""/>
+    </hotspots>
+    <media>
+      <video pan="-138.500" hidepinned="0" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="1" tilt="-9.510" level="1.000" handcursor="1" nodechangekeep="0" pansize="10.000" rotx="-19.200" mode="1" rotz="16.660" height="720" popoutscaling="100" loop="1" field="90.000" fov="38.300" roty="59.710" clickmode="2" popbackmode="0" width="1280" id="Element01" stretch="1.013" poster="media/ 25-2.jpg">
+        <source url="media/ 25 web.mp4"/>
+      </video>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="46.1308" fov="100" tilt="-0.592266" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node4" datetime="30.01.2026 16:29" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-26.99" skinid="ht_node" description="" url="{node3}" target="" tilt="2.46" title=""/>
+      <hotspot id="Point02" pan="-12.03" skinid="ht_node" description="" url="{node8}" target="" tilt="2.67" title=""/>
+      <hotspot id="Point03" pan="-35.68" skinid="ht_node" description="" url="{node2}" target="" tilt="2.29" title=""/>
+    </hotspots>
+    <media>
+      <video pan="5.530" hidepinned="0" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="1" tilt="-3.650" level="1.000" handcursor="1" nodechangekeep="0" pansize="10.000" rotx="-3.370" mode="3" rotz="-1.340" height="720" popoutscaling="100" loop="1" field="90.000" fov="25.260" roty="-22.270" clickmode="2" popbackmode="2" width="1280" id="Element01" stretch="1.002" poster="media/ 25-2.jpg">
+        <source url="media/ 25 web.mp4"/>
+      </video>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-108.493" fov="117.015" tilt="-0.372297" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node8" datetime="30.01.2026 16:27" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-270.26" skinid="ht_node" description="" url="{node3}" target="" tilt="4.02" title=""/>
+    </hotspots>
+    <media>
+      <video pan="-44.300" hidepinned="0" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="1" tilt="-10.600" level="1.000" handcursor="1" nodechangekeep="0" pansize="10.000" rotx="-24.920" mode="1" rotz="-22.760" height="720" popoutscaling="100" loop="1" field="90.000" fov="44.900" roty="-64.130" clickmode="2" popbackmode="0" width="1280" id="Element01" stretch="1.016" poster="media/ 25-2.jpg">
+        <source url="media/ 25 web.mp4"/>
+      </video>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-109.33" fov="108.174" tilt="-1.0536" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node2" datetime="" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-252.23" skinid="ht_node" description="" url="{node3}" target="" tilt="2.05" title=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-94.6168" fov="117.015" tilt="-0.924044" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node1" datetime="30.01.2026 16:27" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-354.71" skinid="ht_node" description="" url="{node11}" target="" tilt="3.04" title=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-108.683" fov="108.174" tilt="-0.280466" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node9" datetime="30.01.2026 16:27" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-250.8" skinid="ht_node" description="" url="{node11}" target="" tilt="7.12" title=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="4096" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="4096" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp">
+      <level predecode="0" height="4096" width="4096" preload="0"/>
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-102.346" fov="100" tilt="-0.558537" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata comment="" description="" copyright="" nodeid="node5" datetime="30.01.2026 16:26" author="" latitude="" heading="0" tags="360" customnodeid="" info="" source="" longitude="" title=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label enabled="1" borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" border="1" backgroundcolor="0xffffff" background="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-227.31" skinid="ht_node" description="" url="{node11}" target="" tilt="1.3" title=""/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" tilt="-1.000" level="1.000" id="_background" nodechangekeep="1" pansize="10.000" mode="0" loop="1" field="90.000">
+        <source mono="0" url="media/Fine Dining - TrackTribe.mp3"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" zoomin="7" softedge="0" zoomfov="40" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomout="0"/>
+    <autorotate noderandom="1" delay="7.00" enabled="1" startloaded="0" nodefilter="" nodedelay="0.00" speed="0.100" useanimation="0" horizonfromdefview="0" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextvr="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" copyright="олег-давыдов.рф" tags="" author="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Квартира в новострое 70 м2&lt;/p>&#xa;&lt;div>"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
